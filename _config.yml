@@ -9,3 +9,5 @@ twitter_username: therealdvorak # DO NOT include the @ character, or else the bu
 github_username:  mygihubhandle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
